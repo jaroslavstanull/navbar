@@ -2,6 +2,7 @@ import React from 'react';
 import {Link} from'react-router-dom';
 
 
+
 function Nav() {
   return (
     <div >
@@ -13,6 +14,9 @@ function Nav() {
               </Link>
               <Link to="/Shop">
               <li>Shop</li>
+              </Link>
+              <Link to="/Todo">
+              <li>Todo</li>
               </Link>
           </ul>
       </nav>
