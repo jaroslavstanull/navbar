@@ -7,6 +7,7 @@ import Todo from "./Components/Todo";
 
 function App() {
   return (
+    <div>
     <Router>
       <div className="App">
         <Nav />
@@ -17,6 +18,16 @@ function App() {
         </Switch>
       </div>
     </Router>
+    <div>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui nulla molestiae laudantium, dolor saepe beatae, recusandae officia fuga temporibus repudiandae aliquid distinctio fugiat eaque, consequatur ut corporis dolores in ducimus.</div>
+    <div>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui nulla molestiae laudantium, dolor saepe beatae, recusandae officia fuga temporibus repudiandae aliquid distinctio fugiat eaque, consequatur ut corporis dolores in ducimus.</div>
+    <div>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui nulla molestiae laudantium, dolor saepe beatae, recusandae officia fuga temporibus repudiandae aliquid distinctio fugiat eaque, consequatur ut corporis dolores in ducimus.</div>
+    <div>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui nulla molestiae laudantium, dolor saepe beatae, recusandae officia fuga temporibus repudiandae aliquid distinctio fugiat eaque, consequatur ut corporis dolores in ducimus.</div>
+    <div>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui nulla molestiae laudantium, dolor saepe beatae, recusandae officia fuga temporibus repudiandae aliquid distinctio fugiat eaque, consequatur ut corporis dolores in ducimus.</div>
+
+    
+    </div>
+
+
   );
 }
 
